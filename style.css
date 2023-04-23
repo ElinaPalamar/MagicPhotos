@@ -1,0 +1,54 @@
+body {
+    background-image: url(rain.jpg);
+    background-size: cover;
+
+}
+
+#topline {
+    border: 1px solid greenyellow;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(124, 197, 101, 0.8);
+    background: linear-gradient(#093B17, #13752F, #093B17);
+}
+
+#thisbar {
+    margin-left: 20px;
+    margin-right: 5px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgba(205, 218, 201, 0.8);
+}
+
+#thisbar:hover {
+    box-shadow: 0 0 5px greenyellow;
+}
+
+#magic {
+    font-weight: bold;
+}
+
+#img {
+    margin-left: 20px;
+    border-radius: 50%;
+    border: 1px solid green;
+}
+
+#img:hover {
+    border: 1px solid greenyellow;
+}
+
+#h2 {
+    color: white;
+}
+
+#card1 {
+    margin-top: 10px;
+}
+
+.col {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.card:hover {
+    background-color: #eeebeb;
+}
