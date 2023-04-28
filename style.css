@@ -52,3 +52,14 @@ body {
 .card:hover {
     background-color: #eeebeb;
 }
+
+#centerplease {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 40px;
+}
+
+#morespace {
+    margin-top: 20px;
+}
